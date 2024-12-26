@@ -1,4 +1,6 @@
 import { Message } from '@/types/message';
+import { Message } from './message';
+
 
 export const sampleMessages: Message[] = [
   {
